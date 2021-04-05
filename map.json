@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"gartentest1..json"
+         "target":"map.json"
         }
     },
  "height":65,
@@ -1090,7 +1090,7 @@
         {
          "columns":48,
          "firstgid":3110,
-         "image":"..\/..\/tiled-master\/Super_Retro_World_Interior_pack_week9\/Package\/atlas_32x.png",
+         "image":"atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -1103,7 +1103,7 @@
         {
          "columns":12,
          "firstgid":3878,
-         "image":"..\/..\/tiled-master\/tiled-master\/examples\/buch-outdoor.png",
+         "image":"buch-outdoor.png",
          "imageheight":192,
          "imagewidth":384,
          "margin":0,
